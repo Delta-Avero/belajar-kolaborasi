@@ -3,4 +3,5 @@
 KA Serayu<br>
 KA Pasundan<br>
 KA Kahuripan<br>
-KA Cikuray
+KA Cikuray<br>
+KA Lokal Bandung Raya
